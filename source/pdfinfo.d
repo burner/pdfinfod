@@ -1,4 +1,4 @@
-module pdfinfo;
+module pdfinfod;
 
 import std.array;
 import std.algorithm.iteration : filter, map, splitter;

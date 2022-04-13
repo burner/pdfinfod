@@ -1,6 +1,6 @@
-# pdfinfo
+# pdfinfod
 
-pdfinfo is a wrapper around the linux util pdfinfo.
+pdfinfod is a wrapper around the linux util pdfinfo.
 Calling the *extractPdfInfo* function as shown below
 returns a struct instance of type *PdfInfo* containing
 the data as listed below.
