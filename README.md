@@ -8,7 +8,7 @@ If the pdf file passed doesn't exist or pdfinfo is not
 in the PATH an exception is thrown.
 
 ```dlang
-module pdfinfo;
+module pdfinfod;
 
 struct PdfInfo {
 	string title;           
