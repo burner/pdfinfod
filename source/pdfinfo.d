@@ -59,7 +59,6 @@ unittest {
 	assert(parsed.creator == "pdflatex");
 	assert(parsed.creationDate == SysTime.fromISOExtString("2022-04-13T08:40:11+02:00"));
 	assert(parsed.modDate == SysTime.fromISOExtString("2022-04-13T08:40:11+02:00"));
-	assert(parsed.custom_metadata);
 	assert(parsed.page_size == "595.276 x 841.89 pts (A4)");
 	assert(isClose(parsed.page_rot, 0));
 	assert(parsed.pdf_version == "1.5");
