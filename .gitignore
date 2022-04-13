@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/pdfinfo
+pdfinfo.so
+pdfinfo.dylib
+pdfinfo.dll
+pdfinfo.a
+pdfinfo.lib
+pdfinfo-test-*
+*.exe
+*.o
+*.obj
+*.lst

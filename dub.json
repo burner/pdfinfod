@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Robert Schadek"
+	],
+	"copyright": "Copyright © 2022, Robert Schadek",
+	"description": "A wrapper around the pdfinfo command line tool, to extract meta data from pdf's",
+	"license": "LGPL3",
+	"name": "pdfinfo"
+}
